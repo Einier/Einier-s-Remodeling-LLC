@@ -1,0 +1,896 @@
+Uri: https://heimyhelle.wixsite.com/misitio
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/acerca-de
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\acerca-de.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/baños
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\baños.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/book-online
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\book-online.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/cart-page
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\cart-page.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/cocinas
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\cocinas.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/contacto
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\contacto.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/interiores
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\interiores.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/política-de-privacidad
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\política-de-privacidad.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/service-page/einier-s-remodeling-llc
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\service-page\einier-s-remodeling-llc.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/servicios
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\servicios.html
+Content Type: text/html
+
+Uri: https://heimyhelle.wixsite.com/misitio/trabajos
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\misitio\trabajos.html
+Content Type: text/html
+
+Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_01923f91c643c5ed7712d341abc6285c_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-20
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_1284f5ce4cddea1b943db1036a234fa9_12.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-24
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_7c3290caca7d1fd74e3e1bab75d2b676_17.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_e1d1b1f84b86a3413484266728f35262_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_f3d5c6d3389c312a32a7f3219a984220_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-26
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_01923f91c643c5ed7712d341abc6285c_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-21
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_1284f5ce4cddea1b943db1036a234fa9_12.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-25
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_7c3290caca7d1fd74e3e1bab75d2b676_17.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-12
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_e1d1b1f84b86a3413484266728f35262_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-13
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_f3d5c6d3389c312a32a7f3219a984220_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-27
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_01cb7a4369d1d25f69dca6a9cd708222_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_16a5b7ae8f844f1320d6a47591f17f68_16.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_2696afd45f880cc6a37ab052d2c470fa_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-14
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_5e569b703f211d5a32e0e46eff044a15_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_68a5aee172733eeed872604ee2b825d9_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-18
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_7c3290caca7d1fd74e3e1bab75d2b676_17.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_975751aa84453684648ca4a49b4617be_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-16
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_d2a9e5e6c1aa463c5278535925327620_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-22
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2806.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=a7e2294d.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-features&originalLanguage=es&pageId=596d12_d6bbf5ef546e62b83a05571e51752559_8.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_01cb7a4369d1d25f69dca6a9cd708222_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_16a5b7ae8f844f1320d6a47591f17f68_16.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_2696afd45f880cc6a37ab052d2c470fa_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-15
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_5e569b703f211d5a32e0e46eff044a15_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_68a5aee172733eeed872604ee2b825d9_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-19
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_7c3290caca7d1fd74e3e1bab75d2b676_17.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_975751aa84453684648ca4a49b4617be_15.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-17
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_d2a9e5e6c1aa463c5278535925327620_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-23
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.specificTransitionsProperties:true%2Cspecs.thunderbolt.backgroundColorPerBreakpoint:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.expandColorPalette:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.wowImageRelayout:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.removeStickyTopVar:true%2Cspecs.thunderbolt.render_all_tabs:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2806.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fheimyhelle.wixsite.com%2Fmisitio&fileId=339f0836.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=c3ad8b35-230a-41f3-804c-ad632924f25b&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a&module=thunderbolt-platform&originalLanguage=es&pageId=596d12_d6bbf5ef546e62b83a05571e51752559_8.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11566.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=f0c09b42-572c-465a-bb6b-5abdce00dd92&siteRevision=17&staticHTMLComponentUrl=https:%2F%2Fheimyhelle-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://static.parastorage.com/services/bookings-service-details-widget/1.2527.0/client-viewer/642.chunk.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\bookings-service-details-widget\1.2527.0\client-viewer\642.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/bookings-service-details-widget/1.2527.0/client-viewer/98.chunk.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\bookings-service-details-widget\1.2527.0\client-viewer\98.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/bookings-service-details-widget/1.2527.0/client-viewer/Gallery.chunk.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\bookings-service-details-widget\1.2527.0\client-viewer\Gallery.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/bookings-service-details-widget/1.2527.0/client-viewer/Scheduling.chunk.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\bookings-service-details-widget\1.2527.0\client-viewer\Scheduling.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.d2412ec4.png
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\editor-elements-library\dist\thunderbolt\media\sloppyframe.d2412ec4.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/santa-resources/dist/viewer/user-site-fonts/fonts/Helvetica/v3/HelveticaLTW04-Roman.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\santa-resources\dist\viewer\user-site-fonts\fonts\Helvetica\v3\HelveticaLTW04-Roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.820.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\tag-manager-client\1.820.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/07fe0fec-b63f-4963-8ee1-535528b67fdb.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\07fe0fec-b63f-4963-8ee1-535528b67fdb.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/55f60419-09c3-42bd-b81f-1983ff093852.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\55f60419-09c3-42bd-b81f-1983ff093852.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/56be84de-9d60-4089-8df0-0ea6ec786b84.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\56be84de-9d60-4089-8df0-0ea6ec786b84.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/58ab5075-53ea-46e6-9783-cbb335665f88.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\58ab5075-53ea-46e6-9783-cbb335665f88.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b4a262e-3342-44e2-8ad7-719998a68134.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b4a262e-3342-44e2-8ad7-719998a68134.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/688ab72b-4deb-4e15-a088-89166978d469.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\688ab72b-4deb-4e15-a088-89166978d469.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/775a65da-14aa-4634-be95-6724c05fd522.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\775a65da-14aa-4634-be95-6724c05fd522.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7816f72f-f47e-4715-8cd7-960e3723846a.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7816f72f-f47e-4715-8cd7-960e3723846a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/9a2e4855-380f-477f-950e-d98e8db54eac.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\9a2e4855-380f-477f-950e-d98e8db54eac.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b68875cb-14a9-472e-8177-0247605124d7.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b68875cb-14a9-472e-8177-0247605124d7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/f1feaed7-6bce-400a-a07e-a893ae43a680.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\f1feaed7-6bce-400a-a07e-a893ae43a680.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\Helvetica\Fonts\fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\03805817-4611-4dbc-8c65-0f73031c3973.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\05ad458f-263b-413f-b054-6001a987ff3e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/375c70e5-6822-492b-8408-7cd350440af7.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\375c70e5-6822-492b-8408-7cd350440af7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\686a6a06-e711-4bd2-b393-8504a497bb3c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\717f8140-20c9-4892-9815-38b48f14ce2b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/92c941ea-2b06-4b72-9165-17476d424d6c.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\92c941ea-2b06-4b72-9165-17476d424d6c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9fe262dc-5a55-4d75-91a4-aed76bd32190.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9fe262dc-5a55-4d75-91a4-aed76bd32190.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b56b944e-bbe0-4450-a241-de2125d3e682.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b56b944e-bbe0-4450-a241-de2125d3e682.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b791c850-fde1-48b3-adf0-8998d55b0866.svg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b791c850-fde1-48b3-adf0-8998d55b0866.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c5749443-93da-4592-b794-42f28d62ef72.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\c5749443-93da-4592-b794-42f28d62ef72.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d513e15e-8f35-4129-ad05-481815e52625.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\f70da45a-a05c-490c-ad62-7db4894b012a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\ff80873b-6ac3-44f7-b029-1b4111beac76.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.1095.0/wix-perf-measure.umd.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\wix-perf-measure\1.1095.0\wix-perf-measure.umd.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.7c869194.bundle.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\wix-thunderbolt\dist\main.7c869194.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/originTrials.41d7301a.bundle.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\wix-thunderbolt\dist\originTrials.41d7301a.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.c39fb378.bundle.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\services\wix-thunderbolt\dist\thunderbolt-commons.c39fb378.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/9VWMTeb5jtXkNoTv949NpRsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\9VWMTeb5jtXkNoTv949NpRsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/aDjpMND83pDErGXlVEr-SRsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\aDjpMND83pDErGXlVEr-SRsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/c4FPK8_hIFKoX59qcGwdCha1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\c4FPK8_hIFKoX59qcGwdCha1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/p0A1C4_gK5NzKtuGSwNurQ.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\p0A1C4_gK5NzKtuGSwNurQ.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/RbebACOccNN-5ixkDIVLjRa1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\RbebACOccNN-5ixkDIVLjRa1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\rijG6I_IOXJjsH07UEo2mw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFluW44JQ.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\questrial\v9\QdVUSTchPBm7nuUeVf70viFluW44JQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/syne/v3/8vIH7w4qzmVxm25L9G78HEZnMg.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\syne\v3\8vIH7w4qzmVxm25L9G78HEZnMg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/syne/v3/8vIH7w4qzmVxm2BL9G78HEY.woff2
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\syne\v3\8vIH7w4qzmVxm2BL9G78HEY.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@16.14.0/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\unpkg\react-dom@16.14.0\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@16.14.0/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\unpkg\react@16.14.0\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/11062b_06b79a0961654561945e8e02fe3229cbf000.jpg/v1/fill/w_72,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/11062b_06b79a0961654561945e8e02fe3229cbf000.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\11062b_06b79a0961654561945e8e02fe3229cbf000.jpg\v1\fill\w_72,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\11062b_06b79a0961654561945e8e02fe3229cbf000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_76884fd2273849b59c186b1e78934360f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/11062b_76884fd2273849b59c186b1e78934360f000.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\11062b_76884fd2273849b59c186b1e78934360f000.jpg\v1\fill\w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\11062b_76884fd2273849b59c186b1e78934360f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/3be7d16de76f4d379db9b222f7a9a15b.jpg/v1/fit/w_480,h_480,q_90/3be7d16de76f4d379db9b222f7a9a15b.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\3be7d16de76f4d379db9b222f7a9a15b.jpg\v1\fit\w_480,h_480,q_90\3be7d16de76f4d379db9b222f7a9a15b.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_48a98e6f22dc4f5e8fe60c56dd85da7a~mv2.jpg/v1/fill/w_37,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/596d12_48a98e6f22dc4f5e8fe60c56dd85da7a~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_48a98e6f22dc4f5e8fe60c56dd85da7a~mv2.jpg\v1\fill\w_37,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\596d12_48a98e6f22dc4f5e8fe60c56dd85da7a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_9623b01f96024da090479656f0cf1bf7~mv2.jpg/v1/fill/w_50,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/596d12_9623b01f96024da090479656f0cf1bf7~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_9623b01f96024da090479656f0cf1bf7~mv2.jpg\v1\fill\w_50,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\596d12_9623b01f96024da090479656f0cf1bf7~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_998d770854eb48feb946334e18f82c43~mv2.jpg/v1/fill/w_373,h_250,al_c,q_80,usm_0.66_1.00_0.01/596d12_998d770854eb48feb946334e18f82c43~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_998d770854eb48feb946334e18f82c43~mv2.jpg\v1\fill\w_373,h_250,al_c,q_80,usm_0.66_1.00_0.01\596d12_998d770854eb48feb946334e18f82c43~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_998d770854eb48feb946334e18f82c43~mv2.jpg/v1/fill/w_596,h_400,al_c,q_80,usm_0.66_1.00_0.01/596d12_998d770854eb48feb946334e18f82c43~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_998d770854eb48feb946334e18f82c43~mv2.jpg\v1\fill\w_596,h_400,al_c,q_80,usm_0.66_1.00_0.01\596d12_998d770854eb48feb946334e18f82c43~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg/v1/fill/w_373,h_250,al_c,q_80,usm_0.66_1.00_0.01/596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg\v1\fill\w_373,h_250,al_c,q_80,usm_0.66_1.00_0.01\596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg/v1/fill/w_596,h_400,al_c,q_80,usm_0.66_1.00_0.01/596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg\v1\fill\w_596,h_400,al_c,q_80,usm_0.66_1.00_0.01\596d12_bd5a308d6c9c418caf9a9699374b04c5~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_0e46dc42786945daad2d2535524461c3~mv2_d_6048_4032_s_4_2.jpeg/v1/fill/w_61,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_0e46dc42786945daad2d2535524461c3~mv2_d_6048_4032_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_0e46dc42786945daad2d2535524461c3~mv2_d_6048_4032_s_4_2.jpeg\v1\fill\w_61,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_0e46dc42786945daad2d2535524461c3~mv2_d_6048_4032_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_44098c0fb5d64ba592b1790b84ea40c9~mv2.png/v1/fill/w_127,h_120,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/icon 1.png
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_44098c0fb5d64ba592b1790b84ea40c9~mv2.png\v1\fill\w_127,h_120,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\icon 1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/74f558_4ef3f401e4a2400a8979c42d1a7ba1a7~mv2_d_5760_3840_s_4_2.jpeg/v1/fill/w_76,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_4ef3f401e4a2400a8979c42d1a7ba1a7~mv2_d_5760_3840_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_4ef3f401e4a2400a8979c42d1a7ba1a7~mv2_d_5760_3840_s_4_2.jpeg\v1\fill\w_76,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_4ef3f401e4a2400a8979c42d1a7ba1a7~mv2_d_5760_3840_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_66357e0ecfea4c86b2ea0bce6e8a9447~mv2.jpg/v1/fill/w_147,h_101,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_66357e0ecfea4c86b2ea0bce6e8a9447~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_66357e0ecfea4c86b2ea0bce6e8a9447~mv2.jpg\v1\fill\w_147,h_101,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_66357e0ecfea4c86b2ea0bce6e8a9447~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_8cd094474d6a4aefa45a3179bffa3351~mv2.png/v1/fill/w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/100.png
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_8cd094474d6a4aefa45a3179bffa3351~mv2.png\v1\fill\w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\100.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/74f558_993f041afc4045c69c824d6022d78ca0~mv2_d_4000_2667_s_4_2.jpeg/v1/fill/w_77,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_993f041afc4045c69c824d6022d78ca0~mv2_d_4000_2667_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_993f041afc4045c69c824d6022d78ca0~mv2_d_4000_2667_s_4_2.jpeg\v1\fill\w_77,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_993f041afc4045c69c824d6022d78ca0~mv2_d_4000_2667_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_9b1cc2c7424d47bf83b890c15ed8127f~mv2_d_5625_3750_s_4_2.jpg/v1/fill/w_76,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_9b1cc2c7424d47bf83b890c15ed8127f~mv2_d_5625_3750_s_4_2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_9b1cc2c7424d47bf83b890c15ed8127f~mv2_d_5625_3750_s_4_2.jpg\v1\fill\w_76,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_9b1cc2c7424d47bf83b890c15ed8127f~mv2_d_5625_3750_s_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_ac023650dfaf4026972886b8c33e06e9~mv2_d_4000_2983_s_4_2.jpg/v1/fill/w_61,h_46,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_ac023650dfaf4026972886b8c33e06e9~mv2_d_4000_2983_s_4_2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_ac023650dfaf4026972886b8c33e06e9~mv2_d_4000_2983_s_4_2.jpg\v1\fill\w_61,h_46,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_ac023650dfaf4026972886b8c33e06e9~mv2_d_4000_2983_s_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_b261ab6879d14b0bbc9800ec41ba91fd~mv2_d_6208_4258_s_4_2.jpeg/v1/fill/w_61,h_42,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_b261ab6879d14b0bbc9800ec41ba91fd~mv2_d_6208_4258_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_b261ab6879d14b0bbc9800ec41ba91fd~mv2_d_6208_4258_s_4_2.jpeg\v1\fill\w_61,h_42,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_b261ab6879d14b0bbc9800ec41ba91fd~mv2_d_6208_4258_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_c7e99b00c1394a748aca2342d598cb19~mv2.png/v1/fill/w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Hom3.png
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_c7e99b00c1394a748aca2342d598cb19~mv2.png\v1\fill\w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\Hom3.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/74f558_d26f60b4ce744d9c9e82426a09cd84b5~mv2_d_5616_3744_s_4_2.jpeg/v1/fill/w_61,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_d26f60b4ce744d9c9e82426a09cd84b5~mv2_d_5616_3744_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_d26f60b4ce744d9c9e82426a09cd84b5~mv2_d_5616_3744_s_4_2.jpeg\v1\fill\w_61,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_d26f60b4ce744d9c9e82426a09cd84b5~mv2_d_5616_3744_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/74f558_e75332ece7294e10b9c07ae6a0b4f844~mv2.png/v1/fill/w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/74f558_e75332ece7294e10b9c07ae6a0b4f844~mv2.png
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_e75332ece7294e10b9c07ae6a0b4f844~mv2.png\v1\fill\w_140,h_116,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\74f558_e75332ece7294e10b9c07ae6a0b4f844~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/74f558_ee8a9ea2d0db4a52b264bf379cd6a276~mv2_d_4000_2447_s_4_2.jpeg/v1/fill/w_147,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/74f558_ee8a9ea2d0db4a52b264bf379cd6a276~mv2_d_4000_2447_s_4_2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\74f558_ee8a9ea2d0db4a52b264bf379cd6a276~mv2_d_4000_2447_s_4_2.jpeg\v1\fill\w_147,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\74f558_ee8a9ea2d0db4a52b264bf379cd6a276~mv2_d_4000_2447_s_4_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_0967e2371a4c492f8239b9f3ccfc204d~mv2.jpeg/v1/fit/w_480,h_479,q_90/84770f_0967e2371a4c492f8239b9f3ccfc204d~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_0967e2371a4c492f8239b9f3ccfc204d~mv2.jpeg\v1\fit\w_480,h_479,q_90\84770f_0967e2371a4c492f8239b9f3ccfc204d~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_09ff25b3874d46fab6254709c0a61fbb~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_09ff25b3874d46fab6254709c0a61fbb~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_09ff25b3874d46fab6254709c0a61fbb~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_09ff25b3874d46fab6254709c0a61fbb~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_12729c3c249c4d24970a2a8d75750b6e~mv2.jpg/v1/fit/w_480,h_479,q_90/84770f_12729c3c249c4d24970a2a8d75750b6e~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_12729c3c249c4d24970a2a8d75750b6e~mv2.jpg\v1\fit\w_480,h_479,q_90\84770f_12729c3c249c4d24970a2a8d75750b6e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_297fd9698d5d40b78c57f030998c73e3~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_297fd9698d5d40b78c57f030998c73e3~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_297fd9698d5d40b78c57f030998c73e3~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_297fd9698d5d40b78c57f030998c73e3~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_37b8eb07cc0f47658f82ae259e147a9a~mv2.jpeg/v1/fit/w_480,h_479,q_90/84770f_37b8eb07cc0f47658f82ae259e147a9a~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_37b8eb07cc0f47658f82ae259e147a9a~mv2.jpeg\v1\fit\w_480,h_479,q_90\84770f_37b8eb07cc0f47658f82ae259e147a9a~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_475e902fd3134c4db10a4c797caa191c~mv2.jpg/v1/fit/w_480,h_479,q_90/84770f_475e902fd3134c4db10a4c797caa191c~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_475e902fd3134c4db10a4c797caa191c~mv2.jpg\v1\fit\w_480,h_479,q_90\84770f_475e902fd3134c4db10a4c797caa191c~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_4b0952848fe9402f8b117edf9d2d7359~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_4b0952848fe9402f8b117edf9d2d7359~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_4b0952848fe9402f8b117edf9d2d7359~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_4b0952848fe9402f8b117edf9d2d7359~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_4b843746603e44618105ce2ee5a56abc~mv2.jpeg/v1/fit/w_480,h_360,q_90/84770f_4b843746603e44618105ce2ee5a56abc~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_4b843746603e44618105ce2ee5a56abc~mv2.jpeg\v1\fit\w_480,h_360,q_90\84770f_4b843746603e44618105ce2ee5a56abc~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg/v1/fill/w_123,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg\v1\fill\w_123,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_59a5515ed0ea48efb3f1a7e3ce3098cc~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_619db8cc54974cb890cb1241f862df08~mv2.jpeg/v1/fit/w_480,h_479,q_90/84770f_619db8cc54974cb890cb1241f862df08~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_619db8cc54974cb890cb1241f862df08~mv2.jpeg\v1\fit\w_480,h_479,q_90\84770f_619db8cc54974cb890cb1241f862df08~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_69cb9c9ba3694a698b4315fd9e802a6b~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_69cb9c9ba3694a698b4315fd9e802a6b~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_69cb9c9ba3694a698b4315fd9e802a6b~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_69cb9c9ba3694a698b4315fd9e802a6b~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_734548bad9a64870bcdf536d143a67e9~mv2.jpeg/v1/fit/w_480,h_479,q_90/84770f_734548bad9a64870bcdf536d143a67e9~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_734548bad9a64870bcdf536d143a67e9~mv2.jpeg\v1\fit\w_480,h_479,q_90\84770f_734548bad9a64870bcdf536d143a67e9~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_76a3c2e844564f65a279b500b1e02cd4~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_76a3c2e844564f65a279b500b1e02cd4~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_76a3c2e844564f65a279b500b1e02cd4~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_76a3c2e844564f65a279b500b1e02cd4~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_7cc282fec9f24e648480c978c6edea9f~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_7cc282fec9f24e648480c978c6edea9f~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_7cc282fec9f24e648480c978c6edea9f~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_7cc282fec9f24e648480c978c6edea9f~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg/v1/fit/w_480,h_479,q_90/84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg\v1\fit\w_480,h_479,q_90\84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_90ea2ac28d32475998f8280f84c837c9~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_bdf11fa2df9d49bca7de079c550c147e~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_bdf11fa2df9d49bca7de079c550c147e~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_bdf11fa2df9d49bca7de079c550c147e~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_bdf11fa2df9d49bca7de079c550c147e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg/v1/fit/w_480,h_360,q_90/84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg\v1\fit\w_480,h_360,q_90\84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_cd17fb21ef2e4ace992e927516c40e00~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_cd40c212221744fcb46ea3381f36dcf4~mv2.jpeg/v1/fit/w_480,h_480,q_90/84770f_cd40c212221744fcb46ea3381f36dcf4~mv2.jpeg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_cd40c212221744fcb46ea3381f36dcf4~mv2.jpeg\v1\fit\w_480,h_480,q_90\84770f_cd40c212221744fcb46ea3381f36dcf4~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_d8d01f48d794443c8237018af974c192~mv2.jpg/v1/fit/w_480,h_360,q_90/84770f_d8d01f48d794443c8237018af974c192~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_d8d01f48d794443c8237018af974c192~mv2.jpg\v1\fit\w_480,h_360,q_90\84770f_d8d01f48d794443c8237018af974c192~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_e16e15cce53f4f7fb5feb3254b9f9d72~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_e16e15cce53f4f7fb5feb3254b9f9d72~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_e16e15cce53f4f7fb5feb3254b9f9d72~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_e16e15cce53f4f7fb5feb3254b9f9d72~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/84770f_e4961873cf6649019774116c0807bedf~mv2.jpg/v1/fit/w_480,h_480,q_90/84770f_e4961873cf6649019774116c0807bedf~mv2.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\84770f_e4961873cf6649019774116c0807bedf~mv2.jpg\v1\fit\w_480,h_480,q_90\84770f_e4961873cf6649019774116c0807bedf~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/cd5b640880ce4ca3a1d3ba165d8ee82d.jpg/v1/fit/w_480,h_360,q_90/cd5b640880ce4ca3a1d3ba165d8ee82d.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\cd5b640880ce4ca3a1d3ba165d8ee82d.jpg\v1\fit\w_480,h_360,q_90\cd5b640880ce4ca3a1d3ba165d8ee82d.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d30b06be6cb14976be28fdf001f2b34c.jpg/v1/fit/w_480,h_480,q_90/d30b06be6cb14976be28fdf001f2b34c.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\d30b06be6cb14976be28fdf001f2b34c.jpg\v1\fit\w_480,h_480,q_90\d30b06be6cb14976be28fdf001f2b34c.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/dcb18a51041d442ebf011092278a2ccb.jpg/v1/fit/w_480,h_360,q_90/dcb18a51041d442ebf011092278a2ccb.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\dcb18a51041d442ebf011092278a2ccb.jpg\v1\fit\w_480,h_360,q_90\dcb18a51041d442ebf011092278a2ccb.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/efa0f8259ee7477e92be257c19f8b3b9.jpg/v1/fit/w_480,h_360,q_90/efa0f8259ee7477e92be257c19f8b3b9.jpg
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\media\efa0f8259ee7477e92be257c19f8b3b9.jpg\v1\fit\w_480,h_360,q_90\efa0f8259ee7477e92be257c19f8b3b9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wix.com/favicon.ico
+File Name: C:\Downloaded Web Sites\heimyhelle.wixsite.com\favicon.ico
+Content Type: image/x-icon
+
